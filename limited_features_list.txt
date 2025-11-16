@@ -1,0 +1,9 @@
+budget_final
+release_month
+release_season
+runtime
+num_genres
+cast_size
+crew_size
+vote_average
+popularity

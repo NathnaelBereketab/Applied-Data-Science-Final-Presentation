@@ -1,0 +1,45 @@
+# Data files (too large for GitHub)
+*.csv
+!eda_*.csv
+!model_comparison.csv
+!feature_importance_*.csv
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Jupyter Notebooks
+.ipynb_checkpoints
+
+# Model files (if saved)
+*.pkl
+*.joblib
+*.h5
+
+# Large output files
+*.png
+!comprehensive_analysis_dashboard.png
+!eda_*.png
+
+# Temporary files
+*.tmp
+*.log
+

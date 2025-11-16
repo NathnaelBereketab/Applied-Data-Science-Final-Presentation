@@ -1,0 +1,16 @@
+LIMITED FEATURE MODEL - CLASSIFICATION REPORT
+================================================================================
+
+              precision    recall  f1-score   support
+
+        Flop       0.80      0.72      0.76       446
+         Hit       0.75      0.82      0.78       456
+
+    accuracy                           0.77       902
+   macro avg       0.78      0.77      0.77       902
+weighted avg       0.77      0.77      0.77       902
+
+
+CONFUSION MATRIX:
+[[323 123]
+ [ 82 374]]
